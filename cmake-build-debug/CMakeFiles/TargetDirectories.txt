@@ -1,0 +1,3 @@
+/Users/erykahtaylor/Library/CloudStorage/OneDrive-Virginia'sCommunityColleges/isPrime/cmake-build-debug/CMakeFiles/isPrime.dir
+/Users/erykahtaylor/Library/CloudStorage/OneDrive-Virginia'sCommunityColleges/isPrime/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/erykahtaylor/Library/CloudStorage/OneDrive-Virginia'sCommunityColleges/isPrime/cmake-build-debug/CMakeFiles/rebuild_cache.dir
